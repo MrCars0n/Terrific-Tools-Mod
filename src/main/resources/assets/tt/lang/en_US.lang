@@ -1,0 +1,5 @@
+tile.MetalMelterIdle.name=Metal Melter
+tile.MetalMelterActive.name=Metal Melter(On)
+item.explosive_bow.name=Explosive Bow
+item.itemExplosiveArrow.name=Explosive Arrow
+itemGroup.tabTT=Terific Tools

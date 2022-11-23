@@ -1,0 +1,20 @@
+package com.TT.bow;
+
+import net.minecraft.entity.EntityLivingBase;
+import net.minecraft.entity.projectile.EntityArrow;
+import net.minecraft.world.World;
+
+public class EntityExplosiveArrow extends EntityArrow {
+
+	public EntityExplosiveArrow(World World, EntityLivingBase EntityLiving, EntityLivingBase p_i1755_3_, float p_i1755_4_, float p_i1755_5_) {
+		super(World, EntityLiving, p_i1755_3_, p_i1755_4_, p_i1755_5_);
+		this.setFire(10);
+	}
+	
+	@Override
+	public void onUpdate(){
+		super.onUpdate();
+		if(EntityArrowExample.ticksInGround == 1)
+	}
+
+}

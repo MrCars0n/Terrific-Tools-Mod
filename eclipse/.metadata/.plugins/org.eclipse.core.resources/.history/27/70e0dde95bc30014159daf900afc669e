@@ -1,0 +1,14 @@
+package com.TT.Items;
+
+import com.TT.Main.MainRegistrey;
+
+import net.minecraft.item.Item;
+
+public class ItemTEst_I extends Item {
+	
+	public ItemTEst_I(){
+		super();
+		this.setCreativeTab(MainRegistrey.tabTT);
+		this.setUnlocalizedName("TestItem");
+	}
+}

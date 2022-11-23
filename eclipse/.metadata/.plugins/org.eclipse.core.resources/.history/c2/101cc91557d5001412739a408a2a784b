@@ -1,0 +1,7 @@
+package com.TT.bow;
+
+import net.minecraft.entity.projectile.EntityArrow;
+
+public class EntityExplosiveArrow extends EntityArrow {
+
+}

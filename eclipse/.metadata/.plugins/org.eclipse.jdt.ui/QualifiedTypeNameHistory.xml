@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="net.minecraft.client.resources.I18n"/>
+<fullyQualifiedTypeName name="net.minecraft.item.crafting.FurnaceRecipes"/>
+<fullyQualifiedTypeName name="net.minecraft.client.renderer.texture.Stitcher.Slot"/>
+<fullyQualifiedTypeName name="net.minecraft.inventory.Slot"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.relauncher.Side"/>
+<fullyQualifiedTypeName name="net.minecraft.client.Minecraft"/>
+<fullyQualifiedTypeName name="org.lwjgl.opengl.GL11"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="net.minecraft.client.util.JsonException.Entry"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="com.ibm.icu.util.BytesTrie.Iterator"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="com.TT.recipes.MetalMelterRecipes"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.registry.GameRegistry"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.network.NetworkRegistry"/>
+<fullyQualifiedTypeName name="net.minecraftforge.common.MinecraftForge"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.gameevent.PlayerEvent"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.gameevent.PlayerEvent.ItemCraftedEvent"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.FMLCommonHandler"/>
+<fullyQualifiedTypeName name="net.minecraft.block.Block"/>
+<fullyQualifiedTypeName name="net.minecraft.init.Blocks"/>
+<fullyQualifiedTypeName name="net.minecraft.init.Items"/>
+<fullyQualifiedTypeName name="com.TT.blocks.MetalMelter"/>
+<fullyQualifiedTypeName name="com.TT.container.ContainerMetalMelter"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="net.minecraft.item.Item"/>
+<fullyQualifiedTypeName name="com.TT.lib.RefStrings"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.registry.EntityRegistry"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.client.registry.RenderingRegistry"/>
+<fullyQualifiedTypeName name="com.TT.bow.EntityExplosiveArrow"/>
+<fullyQualifiedTypeName name="net.minecraft.client.renderer.entity.Render"/>
+<fullyQualifiedTypeName name="net.minecraft.creativetab.CreativeTabs"/>
+<fullyQualifiedTypeName name="com.TT.Main.MainRegistrey"/>
+</qualifiedTypeNameHistroy>
